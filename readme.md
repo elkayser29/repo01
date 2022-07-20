@@ -19,7 +19,9 @@
 🕘 para subir los archibos, copiar las tres lineas que te salen en github
 
 git remote add origin https://github.com/elkayser29/repo01.git
+
 git branch -M 'main'
+
 git push -u origin 'main'
 
 
