@@ -1,0 +1,1 @@
+situarte en el escritorio, escribir mkdir y el nombre de la carpeta que quieras, 
